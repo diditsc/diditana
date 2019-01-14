@@ -1,0 +1,2 @@
+# diditana
+belajar python
